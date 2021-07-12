@@ -66,7 +66,7 @@
     "@types/globby": "9.1.0",
     "@types/inquirer": "7.3.1",
     "@types/js-yaml": "4.0.0",
-    "@types/listr": "0.14.2",
+    "@types/listr": "0.14.4",
     "@types/read-pkg-up": "6.0.0",
     "@types/semver": "7.3.5",
     "@types/tunnel": "0.0.1",
